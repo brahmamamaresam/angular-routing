@@ -1,0 +1,14 @@
+p {
+  font-family: Lato;
+}
+
+a{
+  text-decoration: none;
+  padding: 2px;
+  background-color: rgb(145, 255, 0);
+}
+
+.active{
+  background-color: aqua;
+  color: aliceblue;
+}
